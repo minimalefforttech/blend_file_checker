@@ -2,9 +2,11 @@
 
 A tool to scan Blender `.blend` files for potentially malicious Python scripts and security risks.
 
-This was made using AI tools on a whim and will have bugs.
+This was made using AI tools on a whim and will have bugs.  
+Based on a conversation around seeing blend file scripts without opening the file.  
+This UI does not copy files anywhere, it is purely javascript based.
 
-Based on a conversation around seeing blend file scripts without opening the file.
+https://minimalefforttech.github.io/blend_file_checker/
 
 
 ## Important Disclaimers
